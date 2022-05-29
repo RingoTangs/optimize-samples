@@ -1,6 +1,12 @@
-粒子群算法 
-参考链接：https://www.bilibili.com/video/BV1uY41187rK
-         https://cloud.tencent.com/developer/article/1424756
+# **粒子群算法** 
+
+参考链接：
+
+- https://www.bilibili.com/video/BV1uY41187rK
+-  https://cloud.tencent.com/developer/article/1424756
+
+
+
 参数：
 
 1. `ω`：惯性因子 0.5 ~ 0.8
